@@ -24,6 +24,9 @@ class SongsController < ApplicationController
     end
   end
 
+  def edit
+  end
+
 
   private
 
